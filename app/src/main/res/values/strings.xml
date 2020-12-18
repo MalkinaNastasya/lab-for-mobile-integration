@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Работай!</string>
+    <string name="subtitle">У нас вы найдете самые актуальные вакансии</string>
+    <string name="title">worker.ru</string>
+    <string name="metroPin">●</string>
+    <string name="nameStation">Далеко от метро</string>
+    <string name="buttonSearch">Поиск</string>
+    <string name="textSearch">Поиск по ваканиям</string>
+</resources>
